@@ -6,7 +6,7 @@ HAP 4 is preparing an overview of all ontologies created in the partner projects
 | ------------ | --------- | -------------------------------- |
 | [Ontology Publication Template](ont_pub_tmplt/) | https://w3id.org/pmd/ont_pub_tmplt/ | https://github.com/materialdigital/ontology_publication_template |
 | [SensoTwin](SensoTwin/)                         | http://w3id.org/sensotwin/applicationontology (tbd)                                   |            https://github.com/upaehler/SensoTwin  (tbd)                                                    |
-| [DiProMag](DiProMag/) | https://www.dipromag.de/dipromag_onto/0.1/ | https://www.dipromag.de/dipromag_onto/0.1/ |
+| [DiProMag](DiProMag/) | https://www.dipromag.de/dipromag_onto/0.1/ | https://gitlab.ub.uni-bielefeld.de/semantic-computing/dipromagontology |
 | [DiStAl](DiStAl/) | | |
 | [KNOW-NOW](KNOW-NOW/) | | https://git.tu-berlin.de/felipebaca/know-now |
 | [ODE_AM](ODE_AM/) | https://w3id.org/ODE_AM/ | https://github.com/ThomasBjarsch/ODE_AM |
